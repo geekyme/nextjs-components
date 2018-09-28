@@ -17,6 +17,7 @@ npm link
 cd widget-lib
 npm install
 npm build
+npm link @shawn/button-lib
 npm link
 ```
 
