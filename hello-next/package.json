@@ -12,10 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
     "next": "^7.0.0",
+    "next-compose": "0.0.2",
+    "node-sass": "^4.9.3",
     "react": "^16.5.2",
     "react-day-picker": "^7.2.4",
     "react-dom": "^16.5.2",
     "react-rating": "^1.4.0"
-  }
+  },
+  "devDependencies": {}
 }
